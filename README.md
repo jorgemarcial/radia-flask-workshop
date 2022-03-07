@@ -1,6 +1,6 @@
 # Programa Radia
 
-Este documento forma parte de un proyecto de voluntariado, del programa Radia.
+Este documento forma parte del proyecto de voluntariado para el programa Radia.
 
 https://www.radia.university/
 
