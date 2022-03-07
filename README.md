@@ -8,7 +8,7 @@ https://www.radia.university/
 
 El objetivo de esta formación es conocer de forma introductoria como se estructura una aplicación web, que ventajas e inconvenientes nos aporta un framework o microframework y ver algunos ejemplos con Flask y Python, centrándonos en la parte backend de la aplicación web.
 
-### Estructura de una aplicación web.
+## Estructura de una aplicación web.
 
 Las aplicaciones web se desarrollan siguiendo la arquitectura cliente / servidor donde el cliente realiza peticiones al servidor, quien le da respuesta.
 
